@@ -1,0 +1,7 @@
+,Média,Desvio Padrão,Variância
+Fold,3.0,1.581139,2.5
+Loss,1.83458,0.000164,0.0
+Accuracy,0.26054,8.9e-05,0.0
+Precision,0.06784,8.9e-05,0.0
+Recall,0.26054,8.9e-05,0.0
+F1-Score,0.10766,0.000134,0.0
